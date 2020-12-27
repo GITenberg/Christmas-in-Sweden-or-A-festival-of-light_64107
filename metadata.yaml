@@ -1,0 +1,31 @@
+_repo: Christmas-in-Sweden-or-A-festival-of-light_64107
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hoxie, Bertha Davidson
+    alias: Hoxie, Bertha D.
+    gutenberg_agent_id: '52754'
+    url: http://www.gutenberg.org/2009/agents/52754
+creator:
+  author:
+    agent_name: Pomeroy, Sarah Gertrude
+    birthdate: 1882
+    gutenberg_agent_id: '52755'
+    url: http://www.gutenberg.org/2009/agents/52755
+description: ''
+gutenberg_issued: '2020-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64107'
+  lccn: '11021582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Sweden -- Juvenile fiction'
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+- GITenberg
+title: Christmas in Sweden; or, A festival of light
+url: http://www.gutenberg.org/ebooks/64107
